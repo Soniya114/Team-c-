@@ -2,10 +2,6 @@
 def add(a, b):
     return a + b
 
-# Function for subtraction #### CORRECT THIS PART 
-def subtract(a, b):
-    return a - b
-
 # Function for multiplication
 def multiply(a, b):
     return a * b
