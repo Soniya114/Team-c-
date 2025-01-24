@@ -6,13 +6,6 @@ def add(a, b):
 def multiply(a, b):
     return a * b
 
-# Function for division #### ( Delete this part) 
-def divide(a, b):
-    if b != 0:
-        return a / b
-    else:
-        return "Division by zero is not allowed!"
-
 # Main program
 print("Basic Arithmetic Operations")
 num1 = float(input("Enter the first number: "))
